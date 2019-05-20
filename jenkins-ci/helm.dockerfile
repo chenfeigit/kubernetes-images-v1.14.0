@@ -1,6 +1,6 @@
 FROM alpine
 
-MAINTAINER cnych <icnych@gmail.com>
+MAINTAINER chenfei <chenfeimail@foxmail.com>
 
 ARG HELM_VERSION="v2.10.0"
 
